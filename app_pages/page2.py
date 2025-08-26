@@ -1,5 +1,5 @@
 import streamlit as st
 
 def page2_body():
-    st.title("Page 2")
-    st.write("Welcome to Page 2")
+    st.title("Welcome to Page 2")
+    st.write("This is the content of Page 2")
